@@ -69,11 +69,15 @@ regions. Sample outputs (Image → Ground Truth → Predicted Mask → Binary
 Prediction) are available in the `Results/` folder.
 
 ## Repository Structure
-├── BrC_Detection_Image_Segmentation.ipynb # Main notebook (data, model, training, evaluation)
-├── ICCCIS_637_UNet.pdf # Research paper
-├── 071_Anushka Singhania_Internship Report 2021.pdf
-├── Results/ # Sample prediction outputs
+
+```
+.
+├── Results/                                            # Sample prediction outputs
+├── BrC_Detection_Image_Segmentation.ipynb             # Main notebook (data, model, training, evaluation)
+├── ICCCIS_637_UNet.pdf                                # Research paper
+├── 071_Anushka Singhania_Internship Report 2021.pdf   # Internship report
 └── README.md
+```
 
 
 ## How to Run
