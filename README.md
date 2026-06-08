@@ -6,7 +6,6 @@ ultrasound images** using a U-Net architecture, identifying and outlining
 suspicious regions to assist in early breast cancer detection.
 
 > Developed as part of a 2021 research internship. A companion research paper
-> (`ICCCIS_637_UNet.pdf`) and internship report are included in this repository.
 
 ## Overview
 
@@ -91,6 +90,14 @@ Prediction) are available in the `Results/` folder.
 
 Python · TensorFlow / Keras · OpenCV · scikit-image · scikit-learn · NumPy ·
 Matplotlib
+
+## Publication
+
+This work was published at IEEE. Read the official paper here:
+
+📄 **[Computer-aided Breast Cancer Diagnosis using Deep Convolutional Neural Networks — IEEE Xplore](https://ieeexplore.ieee.org/document/10037691)**
+
+A local copy is also included in this repository: [`ICCCIS_637_UNet.pdf`](./ICCCIS_637_UNet.pdf)
 
 ## Author
 
